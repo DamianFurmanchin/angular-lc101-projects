@@ -23,9 +23,7 @@ export class CandidatesComponent implements OnInit {
   ngOnInit() {
   }
 
-  addToCrew(candidates: object) {
-    
- }
+  // Code the addToCrew function here:
 
 
   // BONUS: Code the changeMissionName function here:
